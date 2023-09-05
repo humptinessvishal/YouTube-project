@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyCCbVQl3OIsxAI-W5-35f2ek2yogRT1mTY";
+const apiKey = "AIzaSyCnHZBG3nfG1RB7ATwCFJkAIuLJd8FyEn8";
 const url = "https://www.googleapis.com/youtube/v3";
 
 const input = document.getElementById("input");
